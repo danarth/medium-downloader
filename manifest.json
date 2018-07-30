@@ -1,0 +1,22 @@
+{
+    "name": "Medium Article Downloader",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "description": "Add a button to medium articles that allows you to download the article as a PDF.",
+    "author": "Daniel Arthur",
+    "permissions": [
+        "https://github.com/*",
+        "http://github.com/*",
+        "downloads"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.medium.com/*",
+                "http://*.medium.com/*"
+            ],
+            "js": ["src/contentScript.js"],
+            "run_at": "document_end"
+        }
+    ]
+}
