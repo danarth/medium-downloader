@@ -2,7 +2,6 @@
 
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nhbfnahbjjaaplgnkffponncahohkfbb.svg)](https://chrome.google.com/webstore/detail/nhbfnahbjjaaplgnkffponncahohkfbb)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nhbfnahbjjaaplgnkffponncahohkfbb.svg)](https://chrome.google.com/webstore/detail/nhbfnahbjjaaplgnkffponncahohkfbb/)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/nhbfnahbjjaaplgnkffponncahohkfbb.svg)](https://chrome.google.com/webstore/detail/nhbfnahbjjaaplgnkffponncahohkfbb/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
