@@ -24,7 +24,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.24.1",
-    "bestzip": "^1.1.4",
+    "bestzip": "^2.1.7",
     "copy-webpack-plugin": "^4.5.2",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "generate-json-webpack-plugin": "^0.3.1",
